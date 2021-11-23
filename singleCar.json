@@ -1,0 +1,23 @@
+{
+  "car_carFaxUrl": "https://www.carfax.com/cfm/ccc_displayhistoryrpt.cfm?partner=DLR_3&vin=WAUKJAFM2DA019393",
+  "car_currentCarURL": "https://www.stevenscreekkia.com/used/Audi/2013-Audi-A3-27a7f30d0a0e09b03ce7d88e50d75ec9.htm",
+  "car_dealership": "Stevens Creek Kia",
+  "car_exteriorColor": "Deep Sea Blue Pearl",
+  "car_imgSrcUrl": [
+    "https://pictures.dealer.com/s/stevenscreekkia/0054/669a2cb03ad8824adaf2299134a849a8x.jpg?impolicy=resize&w=768",
+    "https://pictures.dealer.com/s/stevenscreekkia/0850/90d9e1f780d81399be058246a8a47c2dx.jpg?impolicy=resize&w=768",
+    "https://pictures.dealer.com/s/stevenscreekkia/0465/1994b2a5d39fa1c7327e4ac9b92498c4x.jpg?impolicy=resize&w=768",
+    "https://pictures.dealer.com/s/stevenscreekkia/0701/fabece0df5f8ef5891f0777a300005d3x.jpg?impolicy=resize&w=768"
+  ],
+  "car_name": "A3 2.0 TDI Premium Hatchback",
+  "car_odometer": "44,347 miles",
+  "car_price": "$18,995",
+  "car_samplePayment": "$338",
+  "car_samplePaymentDetails": "60  Months @ 6.9% A.P.R. (estimated financing rate) $1,900%  Down Payment",
+  "car_samplePaymentDetails_APR": "6.9",
+  "car_samplePaymentDetails_DownPayment": "1,900",
+  "car_samplePaymentDetails_Months": "60",
+  "car_stock": " Stock: 22K0177A ",
+  "car_views": "140 views in the past 7 days",
+  "car_vin": "VIN: WAUKJAFM2DA019393 "
+}
